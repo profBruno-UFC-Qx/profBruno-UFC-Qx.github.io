@@ -3,7 +3,7 @@ layout: post
 title:  "Programação para dispositivos móvel"
 author: bruno
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/12.png
 featured: true
 course: https://profbruno-ufc-qx.github.io/jekyll-template-aulas-remotas/
 hidden: true
