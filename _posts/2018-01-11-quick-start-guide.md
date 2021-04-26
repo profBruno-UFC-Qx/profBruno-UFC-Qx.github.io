@@ -5,6 +5,7 @@ author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
+course: https://profbruno-ufc-qx.github.io/jekyll-template-aulas-remotas/
 hidden: true
 ---
 
