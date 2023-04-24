@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Densenvolvimento de Software para Web"
+title:  "Desenvolvimento de Software para Web"
 author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/webdev.png
