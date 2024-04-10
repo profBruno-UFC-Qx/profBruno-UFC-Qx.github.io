@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Projeto de Interface Web"
+title:  "Fundamentos de Programação"
 author: bruno
 categories: [ Jekyll, tutorial ]
-image: assets/images/piw.jpg
+image: assets/images/fup.png
 featured: true
-course: https://profbruno-ufc-qx.github.io/piw/
+course: "#"
 semester: "2024.1"
 hidden: false
 ---
-
