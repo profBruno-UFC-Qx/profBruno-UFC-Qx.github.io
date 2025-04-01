@@ -4,8 +4,8 @@ title:  "Fundamentos de Desenvolvimento Web"
 author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/fundamentos-web.png
-featured: false
-course: https://profbruno-ufc-qx.github.io/2024.2-fundamentals-of-web-programming/
-semester: "2024.2"
-hidden: false
+featured: true
+course: https://profbruno-ufc-qx.github.io/fundamentals-of-web-programming/
+semester: "2025.1"
+hidden: true
 ---
