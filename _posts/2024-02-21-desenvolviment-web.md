@@ -5,7 +5,7 @@ author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/webdev.png
 featured: false
-course: https://profbruno-ufc-qx.github.io/web-development/
+course: https://profbruno-ufc-qx.github.io/2024.1-web-development/
 semester: "2024.1"
 hidden: false
 ---

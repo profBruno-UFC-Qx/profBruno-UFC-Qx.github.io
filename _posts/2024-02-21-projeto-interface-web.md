@@ -5,7 +5,7 @@ author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/piw.jpg
 featured: false
-course: https://profbruno-ufc-qx.github.io/2024-1.piw/
+course: https://profbruno-ufc-qx.github.io/2024.1-piw/
 semester: "2024.1"
 hidden: false
 ---
