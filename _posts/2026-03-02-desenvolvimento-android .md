@@ -4,9 +4,9 @@ title:  "Desenvolvimento de Software para Dispositivos Móveis"
 author: bruno
 categories: [ Jekyll, tutorial ]
 image: assets/images/mobile.png
-featured: true
-course: https://profbruno-ufc-qx.github.io/mobile-development/
-semester: "2025.2"
-hidden: true
+featured: false
+course: https://profbruno-ufc-qx.github.io/2026.1-mobile-development/
+semester: "2026.1"
+hidden: false
 ---
 
